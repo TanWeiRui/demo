@@ -1,14 +1,14 @@
 {
-data: {
-	errCode: "8"
-	userInfoList: [{
-		phone: "13189012388",
-		realName: "摸金鱼"
-	}, {
-		phone: null,
-		realName: "唱跳Rap"
-	}]
-}
-resultCode: 0
-resultMsg: "success"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
