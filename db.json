@@ -8,12 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "data": {
-           "errCode": "8", 
+  "profile": {
+     "errCode": "8", 
             "resultCode": 0,
            "resultMsg": "success",
            "userInfoList": [
              {"phone": "13125176768", "realName": "容一民"}, 
              {"phone": null, "realName": "黄良辉"}
-           ]}
+           ]
+  }
 }
