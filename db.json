@@ -1,6 +1,6 @@
 {
 data: {
-	errCode: "8",
+	errCode: "8"
 	userInfoList: [{
 		phone: "13189012388",
 		realName: "摸金鱼"
