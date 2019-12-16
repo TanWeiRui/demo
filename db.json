@@ -1,7 +1,7 @@
 {
   "data": {
 	"errCode": "8"
-	"userInfoList": [{
+	"comments": [{
 		"phone": "13125176768",
 		"realName": "容一民"
 	}, {
@@ -9,6 +9,6 @@
 		"realName": "黄良辉"
 	}]
 }
-"resultCode": 0
+"resultCode":0
 "resultMsg": "success"
 }
