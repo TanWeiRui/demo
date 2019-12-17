@@ -1,15 +1,14 @@
- {
-  "id": 1,
- 	"errCode": "8",
- 	"userInfoList": [{
- 		"id": 1,
- 		"phone": "13125176768",
- 		"realName": "容一民"
- 	}, {
- 		"id": 2,
- 		"phone": null,
- 		"realName": "黄良辉"
- 	}],
- 	"resultCode": 0,
- 	"resultMessage": "success"
- }
+{
+	"userInfoList": [{
+		"id": 1,
+		"phone": "13125176768",
+		"realName": "Doinb"
+	}, {
+		"id": 2,
+		"phone": "null",
+		"realName": "金咕咕"
+	}],
+	"profile": {
+		"errCode": "8"
+	}
+}
