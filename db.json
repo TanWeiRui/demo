@@ -1,14 +1,7 @@
 {
-	"userInfoList": [{
-		"id": 1,
-		"phone": "13125176768",
-		"realName": "Doinb"
-	}, {
-		"id": 2,
-		"phone": "null",
-		"realName": "金咕咕"
-	}],
-	"profile": {
-		"errCode": "8"
-	}
+    "data": {"errCode": "2", "userInfoList": [
+        {"phone": "18894887777", "realName": "蓝鱼"},
+        {"phone": null, "realName": "金鱼"}]},
+    "resultCode": 0,
+    "resultMsg": "success"
 }
